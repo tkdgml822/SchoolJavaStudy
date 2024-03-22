@@ -54,6 +54,6 @@ public class Exam {
 
 //        System.out.println(members[0].age + " " +  members[0].name);
 
-        // 접근 지정자까지 진행
+        // 접근 지정자까지
     }
 }
